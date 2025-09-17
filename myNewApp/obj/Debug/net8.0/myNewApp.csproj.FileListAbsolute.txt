@@ -23,3 +23,11 @@
 /home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.pdb
 /home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.genruntimeconfig.cache
 /home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/ref/myNewApp.dll
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.sourcelink.json
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.csproj.AssemblyReference.cache
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.MvcApplicationPartsAssemblyInfo.cs
+/home/michael-mwanza/Documents/C#FileManagement/aspcoreApi/myNewApp/obj/Debug/net8.0/myNewApp.csproj.CopyComplete
